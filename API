@@ -2,11 +2,11 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/scbpwf2q1sncyqr/cm-12.1-20160226-UNOFFICIAL-P70.zip?dl=1",
+    "url": "https://www.dropbox.com/s/x6fg7zxha5ok21j/cm-12.1-20160227-UNOFFICIAL-P70.zip?dl=1",
     "timestamp": "1456485612",
     "api_level": "22",
     "md5sum": "06b0348cab4353cac014c72c9ff1f704",
-    "filename": "cm-12.1-20160226-UNOFFICIAL-P70.zip",
+    "filename": "cm-12.1-20160227-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/vgdn1942/API_CMUpdater/master/CHANGELOG",
     "incremental": "5fc92aa39c"
