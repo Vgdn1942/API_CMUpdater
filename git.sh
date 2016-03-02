@@ -3,16 +3,10 @@ if cd ~/API_CMUpdater
 then
     if git add -A
     then
-        if [ -z "$1" ]
+        if git commit -m "date +%d.%m.%Y"
         then
-            echo "Usage: git.sh 'your commit'"
-        else
-            if git commit -m "$1"
-            then
-                git push -u origin master
-            fi
+            git push -u origin master
         fi
     fi
 fi
 cd
-
