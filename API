@@ -11,6 +11,16 @@
     "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
     "incremental": "8baa73377f"
     },
+{
+    "url": "https://www.dropbox.com/s/i4t55dd56trc0xq/cm-12.1-20160310-UNOFFICIAL-P70.zip?dl=1",
+    "timestamp": "1457628008",
+    "api_level": "22",
+    "md5sum": "a17c24665f93d0c648ee8b0baf8a237f",
+    "filename": "cm-12.1-20160310-UNOFFICIAL-P70.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG-02",
+    "incremental": "643ffd3d1f"
+    },
   ],
  "error": null
 }
