@@ -12,14 +12,14 @@
     "incremental": "e0cefe19fb"
     },
 {
-    "url": "https://www.dropbox.com/s/i4t55dd56trc0xq/cm-12.1-20160310-UNOFFICIAL-P70.zip?dl=1",
-    "timestamp": "1457628008",
+    "url": "https://www.dropbox.com/s/x69xfrlxepqfoad/cm-12.1-20160313-UNOFFICIAL-P70.zip?dl=1",
+    "timestamp": "1457861454",
     "api_level": "22",
-    "md5sum": "a17c24665f93d0c648ee8b0baf8a237f",
-    "filename": "cm-12.1-20160310-UNOFFICIAL-P70.zip",
+    "md5sum": "dfb0ff584e703e097c52b6555bbb8609",
+    "filename": "cm-12.1-20160313-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG-02",
-    "incremental": "643ffd3d1f"
+    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG2",
+    "incremental": "128c77b205"
     },
   ],
  "error": null
