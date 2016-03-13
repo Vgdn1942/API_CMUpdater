@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/rjkz1u2e873z41w/cm-12.1-20160302-UNOFFICIAL-P70.zip?dl=1",
-    "timestamp": "1456936419",
+    "url": "https://www.dropbox.com/s/qhlpxuer9v02goq/cm-12.1-20160312-UNOFFICIAL-P70.zip?dl=1",
+    "timestamp": "1457824292",
     "api_level": "22",
-    "md5sum": "1f0b4ae7ce1a36def36b9c39cab3c5fb",
-    "filename": "cm-12.1-20160302-UNOFFICIAL-P70.zip",
+    "md5sum": "c24b007dd7dbce446281386d7ddd2195",
+    "filename": "cm-12.1-20160312-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
-    "incremental": "8baa73377f"
+    "incremental": "e0cefe19fb"
     },
 {
     "url": "https://www.dropbox.com/s/i4t55dd56trc0xq/cm-12.1-20160310-UNOFFICIAL-P70.zip?dl=1",
