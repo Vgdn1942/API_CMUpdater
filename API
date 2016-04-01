@@ -12,14 +12,14 @@
     "incremental": "3ff9653c46"
     },
 {
-    "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160318-UNOFFICIAL-P70.zip",
-    "timestamp": "1458335468",
+    "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160331-UNOFFICIAL-P70.zip",
+    "timestamp": "1459427507",
     "api_level": "22",
-    "md5sum": "c00204d272cf134958950dc35082987b",
-    "filename": "cm-12.1-20160318-UNOFFICIAL-P70.zip",
+    "md5sum": "05425736f0ef1090b50d9b0658c0cf17",
+    "filename": "cm-12.1-20160331-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG2",
-    "incremental": "af6e827c1d"
+    "incremental": "10bb3d24d5"
     },
   ],
  "error": null
