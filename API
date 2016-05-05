@@ -2,6 +2,16 @@
  "id": null,
  "result": [
 {
+    "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160503-UNOFFICIAL-P70.zip",
+    "timestamp": "1462318625",
+    "api_level": "22",
+    "md5sum": "3657e26b04570f62d7cb23a27b0b40dd",
+    "filename": "cm-12.1-20160503-UNOFFICIAL-P70.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG2",
+    "incremental": "1acd4d5727"
+    },
+{
     "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160410-UNOFFICIAL-P70.zip",
     "timestamp": "1460310899",
     "api_level": "22",
@@ -10,16 +20,6 @@
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
     "incremental": "389ba31842"
-    },
-{
-    "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160331-UNOFFICIAL-P70.zip",
-    "timestamp": "1459427507",
-    "api_level": "22",
-    "md5sum": "05425736f0ef1090b50d9b0658c0cf17",
-    "filename": "cm-12.1-20160331-UNOFFICIAL-P70.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG2",
-    "incremental": "10bb3d24d5"
     },
   ],
  "error": null
