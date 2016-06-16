@@ -8,7 +8,7 @@
     "md5sum": "2de9b77b860869d79b60de5f4b0f30e7",
     "filename": "cm-12.1-20160616-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
-    "changes": "https://github.com/Vgdn1942/API_CMUpdater/blob/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
     "incremental": "23d970adbd"
     },
   ],
