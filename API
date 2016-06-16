@@ -12,14 +12,14 @@
     "incremental": "474d9b7c94"
     },
 {
-    "url": "http://pudovnya-city.by/P70-A-cm-12.1/cm-12.1-20160522-UNOFFICIAL-P70.zip",
-    "timestamp": "1463931533",
+    "url": "http://cmota.universe-rp.ru/cm-12.1/cm-12.1-20160615-UNOFFICIAL-P70.zip",
+    "timestamp": "1466032724",
     "api_level": "22",
-    "md5sum": "070cd8615d303b031638e6f31230ebcb",
-    "filename": "cm-12.1-20160522-UNOFFICIAL-P70.zip",
+    "md5sum": "d07386ea5d1c9da142c430e45b921282",
+    "filename": "cm-12.1-20160615-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
-    "incremental": "e3c205de68"
+    "changes": "http://cmota.universe-rp.ru/API_CMUpdater/CHANGELOG",
+    "incremental": "35b84a6f62"
     },
   ],
  "error": null
