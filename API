@@ -18,7 +18,7 @@
     "md5sum": "d07386ea5d1c9da142c430e45b921282",
     "filename": "cm-12.1-20160615-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
-    "changes": "http://cmota.universe-rp.ru/API_CMUpdater/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
     "incremental": "35b84a6f62"
     },
   ],
