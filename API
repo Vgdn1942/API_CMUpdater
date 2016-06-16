@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "http://cmota.universe-rp.ru/cm-12.1/cm-12.1-20160616-UNOFFICIAL-P70.zip",
+    "timestamp": "1466103138",
+    "api_level": "22",
+    "md5sum": "2de9b77b860869d79b60de5f4b0f30e7",
+    "filename": "cm-12.1-20160616-UNOFFICIAL-P70.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://github.com/Vgdn1942/API_CMUpdater/blob/master/CHANGELOG",
+    "incremental": "23d970adbd"
+    },
+  ],
+ "error": null
+}
