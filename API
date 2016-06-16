@@ -3,13 +3,13 @@
  "result": [
 {
     "url": "http://cmota.universe-rp.ru/cm-12.1/cm-12.1-20160616-UNOFFICIAL-P70.zip",
-    "timestamp": "1466103138",
+    "timestamp": "1466112266",
     "api_level": "22",
-    "md5sum": "2de9b77b860869d79b60de5f4b0f30e7",
+    "md5sum": "402598b51b6f2f6ab12988aa114e1d81",
     "filename": "cm-12.1-20160616-UNOFFICIAL-P70.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/Vgdn1942/API_CMUpdater/master/CHANGELOG",
-    "incremental": "23d970adbd"
+    "incremental": "fd77b65ea8"
     },
   ],
  "error": null
